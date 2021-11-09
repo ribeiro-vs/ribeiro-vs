@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ribeiro-vs
 - 👀 I’m interested in ... WEB Development, SQL Databases, Node.js, API's 
-- 🌱 I’m currently learning ... HTML, CSS, Javascript, SQL Server, Report Builder and Python
+- 🌱 I’m currently learning ... HTML, CSS, Javascript, T-SQL, Report Builder and Python
 - 💞️ I’m looking to collaborate on ... Making Web Apps
 - 📫 How to reach me ... E-mail: ribeiro.vr20@gmail.com & Instagram Account: @vs.ribeiro_
 
