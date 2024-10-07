@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ribeiro-vs
-- 👀 I’m interested in ... SQL, BI, Report Development, Data Studio, APIs 
-- 🌱 I’m currently learning ... C#, Data Studio, ETL, Report Development, SSIS and Python
-- 💞️ I’m looking to collaborate on ... BI / DB Projects 
-- 📫 How to reach me ... E-mail: ribeiro.vr20@gmail.com & Instagram Account: @vs.ribeiro_
-
-<!---
-ribeiro-vs/ribeiro-vs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Vinicius Ribeiro (@ribeiro-vs)
+- 💼 I'm a Data Analyst and Data Engineer with over 3 years of experience in automating manual processes and building data integration solutions across multiple companies.
+- 👨‍🎓 Graduated with honors in Information Systems from Anhanguera University, São Paulo, Brazil (2022).
+- 🔧 I specialize in Python, T-SQL, BI Solutions, and data management concepts like ACID, data cleanliness, and referential integrity. I'm also experienced with tools like AWS, SSIS, Airflow, Power BI, and Data Studio.
+- 🌱 Currently expanding my knowledge in C#, ETL processes, and further honing my skills in report development and data engineering.
+- 🤝 I’m open to collaborating on BI and database projects, and I'm passionate about creating efficient, scalable data pipelines and automation solutions.
+- 📫 Feel free to reach me at ribeiro.vr20@gmail.com or via [LinkedIn](https://www.linkedin.com/in/vinicius-ribeiro1/).
