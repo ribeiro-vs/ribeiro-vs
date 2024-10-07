@@ -4,6 +4,12 @@ I'm a **Data Engineer** at [Justo](https://justo.mx/). With over 3 years of expe
 
 Throughout my career, I've worked with cross-functional, multicultural teams, ensuring **data accuracy** and alignment with business objectives. My expertise spans a wide array of technologies, particularly in **Python**, **T-SQL**, **AWS tools**, **Apache Airflow**, and **Snowflake** for building and optimizing data workflows.
 
+## 📁 **Repos**
+- [etl-and-web-pipeline-hub](https://github.com/ribeiro-vs/etl-and-web-pipeline-hub)
+- [data-studio-business-intelligence-dashboard](https://github.com/ribeiro-vs/data-studio-business-intelligence-dashboard)
+- [c-sharp-unity-platformer](https://github.com/ribeiro-vs/c-sharp-unity-platformer)
+- [airflow-world-bank-pipeline](https://github.com/ribeiro-vs/airflow-world-bank-pipeline)
+
 ## 🎓 **Education**
 - **Bachelor's Degree in Information Systems** – Anhanguera University, São Paulo, Brazil (2022)
 
