@@ -6,7 +6,7 @@ I'm a data engineer driven by a passion for simplifying complexity, automating p
 
 ---
 
-### 🗃️ Projects
+### 🗃️ Main projects
 - [snowflake-datalake-medallion-pipeline](https://github.com/ribeiro-vs/snowflake-datalake-medallion-pipeline)
 - [etl-and-web-pipeline-hub](https://github.com/ribeiro-vs/etl-and-web-pipeline-hub)
 - [data-studio-business-intelligence-dashboard](https://github.com/ribeiro-vs/data-studio-business-intelligence-dashboard)
