@@ -2,7 +2,7 @@
 
 **`Data Craftsman (Engineer/illustrator/Musician)`**
 
-I'm a data engineer driven by a passion for simplifying complexity, automating processes, and integrating data across solutions. From orchestrating dataflows to web data extraction and transformation, providing scalable solutions that streamline business operations and save hours of productivity. Whether it's automating tasks or developing reports, I thrive on solving real-world problems with technology.
+I'm a data engineer driven by a passion for simplifying complexity, automating processes, and integrating data across platforms. From orchestrating dataflows to web data extraction and transformation, providing scalable approaches that streamline business operations and save hours of productivity. Whether it's automating tasks or developing reports, I thrive on solving real-world problems with technology.
 
 ---
 
