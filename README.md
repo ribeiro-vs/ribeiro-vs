@@ -68,11 +68,10 @@ I'm a data engineer driven by a passion for simplifying complexity, automating p
 
 ### 🗃️ Main repos
 - [snowflake-datalake-medallion-pipeline](https://github.com/ribeiro-vs/snowflake-datalake-medallion-pipeline)
+- [airflow-world-bank-pipeline](https://github.com/ribeiro-vs/airflow-world-bank-pipeline)
 - [etl-and-web-pipeline-hub](https://github.com/ribeiro-vs/etl-and-web-pipeline-hub)
 - [data-studio-business-intelligence-dashboard](https://github.com/ribeiro-vs/data-studio-business-intelligence-dashboard)
 - [c-sharp-unity-platformer](https://github.com/ribeiro-vs/c-sharp-unity-platformer)
-- [airflow-world-bank-pipeline](https://github.com/ribeiro-vs/airflow-world-bank-pipeline)
-
   
 #
 
